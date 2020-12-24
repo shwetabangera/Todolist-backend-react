@@ -1,0 +1,67 @@
+[
+  {
+    "taskId": "task01",
+    "taskName": "Complete express todo app",
+    "status": "Pending"
+  },
+  {
+    "taskId": "task02",
+    "taskName": "Complete express Routers",
+    "status": "Pending"
+  },
+  {
+    "taskId": "task03",
+    "taskName": "Integrate with Database",
+    "status": "Pending"
+  },
+  {
+    "taskId": "task04",
+    "taskname": "Creating a task using POST",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayaphohkifv3kxi",
+    "taskName": "This is created using a Class",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayaphp9kifv4hhd",
+    "taskName": "This implements Class & Constructor",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayapi67kifvhkdk",
+    "taskName": "This implements Controller & Model",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayapi9vkifvlikp",
+    "taskName": "This implements Controller & Model",
+    "status": "Complete"
+  },
+  {
+    "taskId": "ayapky4kifz17z8",
+    "taskName": "Some Task from Client",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayapd1ikih6lo4m",
+    "taskName": "This is a new Task after deleting  previous task",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayap13q6kiix2263",
+    "taskName": "Some Task from Client",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayap13shkiix28sa",
+    "taskName": "Some Task from Client",
+    "status": "Pending"
+  },
+  {
+    "taskId": "ayap13svkiix2qh0",
+    "taskName": "Some Task from Rutuja",
+    "status": "Pending"
+  }
+]
